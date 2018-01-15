@@ -1,0 +1,187 @@
+nav.navbar{
+  background-color: white;
+  border: none;
+  padding: 2% 5%;
+  margin-bottom: 0;
+}
+a.navbar-brand{
+  padding:0;
+  padding-top: 1vh;
+}
+.taxi{
+  background-image: url("../assets/images/taxi.jpg");
+  background-size: cover;
+  background-position: 100% 92%;
+  height: 96vh;
+}
+.taxi>div>div.empty-row{
+  height: 14vh;
+}
+.register{
+  background: #F7B617;
+  height: 61vh;
+  padding: 6%;
+}
+.register>div>div.row>div>h6{
+  text-align: center;
+}
+.register>div.row>div.col-md-4{
+  padding: 2%;
+  margin-left: 3%;
+}
+.taxi-mobile{
+  background-image: url("../assets/images/taxi.jpg");
+  background-size: 150%;
+  background-position: 45% 100%;
+  height: 96vh;
+}
+.empty-row-mobile{
+  height: 28vh;
+}
+.download-mobile{
+  height: 37vh;
+}
+.download-mobile>div>button{
+  margin: 6vh 0;
+  background: white;
+  border: none;
+}
+.h2,.h4,.h6,.h3,.h1,p{
+  color: white;
+}
+.h2{
+  margin: 0;
+}
+.h4{
+  margin: 6vh 0 3vh 0;
+}
+.h4>img{
+  width: 7vw;
+}
+.h6{
+  margin: 4vh 0 4vh 0;
+}
+.download{
+  background: #F7B617;
+  height: 70vh;
+}
+.iphone{
+  border: white 1px solid;
+  margin-top: 5vh;
+  border-left: none;
+  padding: 4vh;
+  height: 60vh;
+  font-size: 120%;
+}
+.iphone>div>img{
+  height: 50vh;
+  width: 20vw;
+  margin-top: 1vh;
+}
+.iphone>div>div>div>p{
+  margin-top: 4vh;
+  font-size: large;
+}
+.iphone-mobile{
+  margin-top: 3vh;
+  border: white 1px solid;
+  margin-bottom: 8vh;
+  padding-bottom: 2vh;
+}
+.iphone-mobile>div>div>img{
+  height: 38vh;
+  width: 40vw;
+  margin-top: 1vh;
+}
+div>.fast{
+  margin-left: 5vw;
+}
+.drive{
+  background-image: url("../assets/images/conduce.jpg");
+  background-size: cover;
+  background-position: 95% 50%;
+  height: 70vh;
+}
+.jumbo-drive{
+  background: rgba(0, 0, 0, 0.57);
+  height: 100%;
+  padding: 3%;
+}
+.jumbo-drive>h3{
+  margin-top: 8vh;
+}
+.jumbo-drive>button{
+  background: #F7B617;
+  border: none;
+  color: white;
+}
+.maps{
+  background: #F7B617;
+  height: 75vh;
+  padding: 4%;
+}
+.maps>div>input{
+  background: #F7B617;
+  border: white 1px solid;
+  margin: 3%;
+  display: inline-block;
+}
+.icons-map{
+  height: 100%;
+}
+.maps>div>div>img{
+  margin-left: 80%;
+}
+.place{
+  margin-top: 115%;
+}
+.destiny{
+  margin-top: 38%;
+}
+.button-maps{
+  padding-top: 3vh;
+}
+.button-map{
+  background: white;
+  display: inline-block;
+  border: none;
+  margin-left: 9vw;
+}
+section{
+  border: white 1px solid;
+  padding: 2%;
+}
+.social{
+  background: #2B2B2B;
+  height: 85vh;
+
+}
+.empty-row{
+  height: 9vh;
+}
+i,
+.first-list,
+.copyright{
+  color: white;
+}
+.first-list>ul>li,
+.second-list>ul>li{
+  background: none;
+  border: none;
+  padding: 1vh;
+}
+.first-list>ul>li>a,
+.second-list>ul>li>a{
+  color: white;
+  text-decoration: none;
+}
+.col-md-3>.row>img{
+  width: 10vw;
+  margin: 1vh;
+}
+.hr-light{
+  border: .5px solid rgba(135, 135, 135, 0.62);
+}
+.icons-container{
+  padding-bottom: 2vh;
+}
